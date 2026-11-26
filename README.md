@@ -7,6 +7,8 @@
 ![IEEE](https://img.shields.io/badge/IEEE-Senior%20Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 ![Post-Doc](https://img.shields.io/badge/Post--Doc-Singapore%20Institute%20of%20Technology-d73a49?style=for-the-badge)
 
+**Associate Professor, Electronics and Communication Engineering · Annamacharya University**
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6852--7851-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6852-7851)
 [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-E9711C?style=flat-square&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=36634845000)
 
