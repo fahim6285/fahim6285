@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=16&descAlignY=72" alt="Dr. Fahimuddin Shaik" />
 
-![Role](https://img.shields.io/badge/Associate%20Professor%2C%20ECE-Annamacharya%20University-1f6feb?style=for-the-badge)
+![Role](https://img.shields.io/badge/Associate%20Professor-ECE-1f6feb?style=for-the-badge)
 ![R&D](https://img.shields.io/badge/Coordinator-R%26D%20(Academic%20Research)-8957e5?style=for-the-badge)
 ![IEEE](https://img.shields.io/badge/IEEE-Senior%20Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 ![Post-Doc](https://img.shields.io/badge/Post--Doc-Singapore%20Institute%20of%20Technology-d73a49?style=for-the-badge)
@@ -11,6 +11,24 @@
 [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-E9711C?style=flat-square&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=36634845000)
 
 </div>
+
+## 🏆 Ranks, awards and recognition
+
+![ScholarGPS](https://img.shields.io/badge/ScholarGPS-%231%20Worldwide%20%C2%B7%20Diabetic%20Myonecrosis-FFB300?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-Top%200.16%25%20%C2%B7%20Rank%20752%20of%20463%2C886-d73a49?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Diabetes](https://img.shields.io/badge/Diabetes-Top%200.61%25%20%C2%B7%20Rank%205%2C125%20of%20836%2C162-8957e5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Digital%20Image%20Processing](https://img.shields.io/badge/Digital%20Image%20Processing-Top%201.05%25-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Diabetic%20Retinopathy](https://img.shields.io/badge/Diabetic%20Retinopathy-Top%201.81%25%20%C2%B7%20Rank%20720%20of%2039%2C778-2da44e?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Overall%20Field%20Productivity](https://img.shields.io/badge/Overall%20Field%20Productivity-Top%202.08%25-e34c26?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+![Award](https://img.shields.io/badge/Award-Research%20Excellence%20Award%202023%20%C2%B7%20AGAR%2C%20Tamil%20Nadu-FFB300?style=for-the-badge)
+![Funded%20Project](https://img.shields.io/badge/Funded%20Project-DST%E2%80%93SERB%20ECRA%20%C2%B7%20%E2%82%B934.6%20lakh%20%C2%B7%20Govt.%20of%20India-d73a49?style=for-the-badge)
+![Patents](https://img.shields.io/badge/Patents-9%20Published%20Indian%20Applications-8957e5?style=for-the-badge)
+![IEEE](https://img.shields.io/badge/IEEE-Senior%20Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+
+**Funded research (Co-PI):** *Feature Extraction from Medical Images Related to Tuberculosis Bacilli and Study of ADR on Quality of TB Patient Life Undergoing Short Course Observed Treatment.* DST-SERB Early Career Research Award, Govt. of India (sanctioned Aug 2016, grant ECR/2016/000426).
+
+*ScholarGPS rankings are from the 2024 and 2026 editions.*
 
 ## About me
 
@@ -40,9 +58,7 @@ I'm an Associate Professor of Electronics and Communication Engineering with mor
 | Google Scholar | 877 | 17 | i10-index 25 |
 | Web of Science | 115 | 6 | 44 publications, 22 in Core Collection |
 
-**ScholarGPS rankings (2026 edition):** Top 0.16% in Machine Learning (rank 752 of 463,886 scholars) · Top 0.61% in Diabetes · Top 1.05% in Digital Image Processing · Top 1.81% in Diabetic Retinopathy · Rank 1 worldwide in Diabetic Myonecrosis (2024 and 2026)
-
-**Publications:** 210 in total, made up of 45 journal articles, 113 conference papers, 42 book chapters and 9 books · **9 published Indian patent applications** · **DST-SERB ECRA** project (Co-PI)
+**Publications:** 210 in total, made up of 45 journal articles, 113 conference papers, 42 book chapters and 9 books · **9 published Indian patent applications**
 
 ## My AI agents
 
