@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4c1d95,50:1d4ed8,100:0369a1&height=200&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=17&descAlignY=62" alt="Dr. Fahimuddin Shaik" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1d4ed8,100:0369a1&height=240&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=46&fontColor=ffffff&fontAlignY=30&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=17&descAlignY=48" alt="Dr. Fahimuddin Shaik" />
+
+<a href="https://github.com/fahim6285"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=1D4ED8&center=true&vCenter=true&width=720&height=40&lines=Deep+learning+for+medical+imaging;Signal+processing+and+time+series+analysis;VLSI+physical+design;Open-source+AI+agents+for+research" alt="Typing animation" /></a>
 
 ![Role](https://img.shields.io/badge/Associate%20Professor%2C%20ECE-Annamacharya%20University-1f6feb?style=for-the-badge)
 ![R&D](https://img.shields.io/badge/Coordinator-R%26D%20(Academic%20Research)-8957e5?style=for-the-badge)
@@ -88,6 +90,6 @@ Supervising 5 PhD scholars (diabetic retinopathy, smart healthcare, medical imag
 
 Feedback, ideas and collaboration are welcome in each repository's Issues.
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4c1d95,50:1d4ed8,100:0369a1&height=90&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1d4ed8,100:0369a1&height=120&section=footer" alt="" />
 
 </div>
