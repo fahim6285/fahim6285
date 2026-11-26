@@ -1,13 +1,77 @@
-# Hi, I'm Fahim Shaik
+<div align="center">
 
-I build open-source AI agent skills for academic, research and institutional work.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=16&descAlignY=72" alt="Dr. Fahimuddin Shaik" />
+
+![Role](https://img.shields.io/badge/Associate%20Professor-ECE-1f6feb?style=for-the-badge)
+![R&D](https://img.shields.io/badge/Coordinator-R%26D%20(Academic%20Research)-8957e5?style=for-the-badge)
+![IEEE](https://img.shields.io/badge/IEEE-Senior%20Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+![Post-Doc](https://img.shields.io/badge/Post--Doc-Singapore%20Institute%20of%20Technology-d73a49?style=for-the-badge)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6852--7851-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6852-7851)
+[![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-E9711C?style=flat-square&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=36634845000)
+
+</div>
+
+## About me
+
+I'm an Associate Professor of Electronics and Communication Engineering with more than 20 years of teaching and research. My work uses deep learning and signal processing for healthcare, and I also work on VLSI physical design and IoT-based smart healthcare. I lead R&D coordination for academic research and supervise PhD scholars. I completed post-doctoral research at the Singapore Institute of Technology (2024 to 2025).
+
+## Research areas
+
+![Medical imaging](https://img.shields.io/badge/Medical%20Imaging-OCT%20%7C%20OCTA%20%7C%20CT%20%7C%20Retina-e34c26?style=flat-square)
+![Deep learning](https://img.shields.io/badge/Deep%20Learning-Clinical%20Decision%20Support-ff6f00?style=flat-square)
+![Signals](https://img.shields.io/badge/Signal%20Processing-ECG%20%7C%20EEG%20%7C%20Time%20Series-1f6feb?style=flat-square)
+![VLSI](https://img.shields.io/badge/VLSI-Placement%20%26%20Routing-8957e5?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-WSN%20%26%20Smart%20Healthcare-2da44e?style=flat-square)
+![Vision](https://img.shields.io/badge/Computer%20Vision-Fusion%20%7C%20Segmentation%20%7C%20Remote%20Sensing-d73a49?style=flat-square)
+
+## Tools I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%20HDL-6e40c9?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-ff6f00?style=for-the-badge)
+
+## Research impact
+
+| Source | Citations | h-index | Also |
+|---|---|---|---|
+| Scopus | 632 | 15 | 158 indexed documents |
+| Google Scholar | 877 | 17 | i10-index 25 |
+| Web of Science | 115 | 6 | 44 publications, 22 in Core Collection |
+
+**ScholarGPS rankings (2026 edition):** Top 0.16% in Machine Learning (rank 752 of 463,886 scholars) · Top 0.61% in Diabetes · Top 1.05% in Digital Image Processing · Top 1.81% in Diabetic Retinopathy · Rank 1 worldwide in Diabetic Myonecrosis (2024 and 2026)
+
+**Publications:** 210 in total, made up of 45 journal articles, 113 conference papers, 42 book chapters and 9 books · **9 published Indian patent applications** · **DST-SERB ECRA** project (Co-PI)
 
 ## My AI agents
 
-- **[VitaMorph Studio](https://github.com/fahim6285/vitamorph-studio)**: Verified CVs. Interactive portfolios. One accurate professional identity.
-- **[SciForge Lab](https://github.com/fahim6285/sciforge-lab)**: Scientific code. Trustworthy numbers. Clear visual evidence.
-- **[CareerBridge Academic](https://github.com/fahim6285/careerbridge-academic)**: Right opportunity. Verified fit. Stronger application.
-- **[RankMetric Intelligence](https://github.com/fahim6285/rankmetric-intelligence)**: Evidence to insight. Metrics with integrity.
-- **[EduAdapt Studio](https://github.com/fahim6285/eduadapt-studio)**: Learn from the source. Teach with purpose. Assess with precision.
+Five open-source agent skills for academic, research and institutional work.
 
-Feedback, ideas and contributions are welcome in each repository's Issues.
+| Agent | What it does |
+|---|---|
+| 🧬 **[VitaMorph Studio](https://github.com/fahim6285/vitamorph-studio)** | Verified CVs. Interactive portfolios. One accurate professional identity. |
+| 🔬 **[SciForge Lab](https://github.com/fahim6285/sciforge-lab)** | Scientific code. Trustworthy numbers. Clear visual evidence. |
+| 🌉 **[CareerBridge Academic](https://github.com/fahim6285/careerbridge-academic)** | Right opportunity. Verified fit. Stronger application. |
+| 📊 **[RankMetric Intelligence](https://github.com/fahim6285/rankmetric-intelligence)** | Evidence to insight. Metrics with integrity. |
+| 🎓 **[EduAdapt Studio](https://github.com/fahim6285/eduadapt-studio)** | Learn from the source. Teach with purpose. Assess with precision. |
+
+## Leadership and service
+
+- Coordinator, R&D (Academic Research) (Aug 2025 to present)
+- Coordinator, AISHE (2024 to present) · Coordinator, IEEE Student Branch (since 2017)
+- Member Secretary, Journal Review Committee · Member, Research Committee (2025 to present)
+- Past IEEE Hyderabad Section Young Professionals roles: Vice-Chairman (2019), Treasurer (2017 to 2018)
+- Research Excellence Award, 2023
+
+## Research guidance
+
+Supervising 5 PhD scholars (diabetic retinopathy, smart healthcare, medical image analysis, diagnostic imaging, biomedical signal processing). 20 M.Tech dissertations and 38 B.Tech projects guided.
+
+<div align="center">
+
+Feedback, ideas and collaboration are welcome in each repository's Issues.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" alt="" />
+
+</div>
