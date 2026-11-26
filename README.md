@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=16&descAlignY=72" alt="Dr. Fahimuddin Shaik" />
 
-![Role](https://img.shields.io/badge/Associate%20Professor-ECE-1f6feb?style=for-the-badge)
+![Role](https://img.shields.io/badge/Associate%20Professor%2C%20ECE-Annamacharya%20University-1f6feb?style=for-the-badge)
 ![R&D](https://img.shields.io/badge/Coordinator-R%26D%20(Academic%20Research)-8957e5?style=for-the-badge)
 ![IEEE](https://img.shields.io/badge/IEEE-Senior%20Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 ![Post-Doc](https://img.shields.io/badge/Post--Doc-Singapore%20Institute%20of%20Technology-d73a49?style=for-the-badge)
