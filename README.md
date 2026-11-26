@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=16&descAlignY=72" alt="Dr. Fahimuddin Shaik" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4c1d95,50:1d4ed8,100:0369a1&height=200&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=17&descAlignY=62" alt="Dr. Fahimuddin Shaik" />
 
 ![Role](https://img.shields.io/badge/Associate%20Professor%2C%20ECE-Annamacharya%20University-1f6feb?style=for-the-badge)
 ![R&D](https://img.shields.io/badge/Coordinator-R%26D%20(Academic%20Research)-8957e5?style=for-the-badge)
@@ -88,6 +88,6 @@ Supervising 5 PhD scholars (diabetic retinopathy, smart healthcare, medical imag
 
 Feedback, ideas and collaboration are welcome in each repository's Issues.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4c1d95,50:1d4ed8,100:0369a1&height=90&section=footer" alt="" />
 
 </div>
