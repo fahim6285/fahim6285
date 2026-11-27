@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,50:166534,100:0f766e&height=240&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=46&fontColor=ffffff&fontAlignY=30&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=17&descAlignY=48" alt="Dr. Fahimuddin Shaik" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3a21,50:14532d,100:166534&height=240&section=header&text=Dr.%20Fahimuddin%20Shaik&fontSize=46&fontColor=ffffff&fontAlignY=30&desc=AI%20for%20medical%20imaging%20%C2%B7%20Signal%20processing%20%C2%B7%20VLSI%20%C2%B7%20Open-source%20research%20agents&descSize=17&descAlignY=48" alt="Dr. Fahimuddin Shaik" />
 
 <a href="https://github.com/fahim6285"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=166534&center=true&vCenter=true&width=720&height=40&lines=Deep+learning+for+medical+imaging;Signal+processing+and+time+series+analysis;VLSI+physical+design;Open-source+AI+agents+for+research" alt="Typing animation" /></a>
 
