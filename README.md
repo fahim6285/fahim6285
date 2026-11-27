@@ -11,6 +11,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6852--7851-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6852-7851)
 [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-E9711C?style=flat-square&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=36634845000)
+<br><img src="https://komarev.com/ghpvc/?username=fahim6285&label=Total+Visitors&color=0b7285&style=for-the-badge" alt="Total visitors"/>
 
 </div>
 
